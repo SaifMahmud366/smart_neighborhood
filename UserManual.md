@@ -11,18 +11,18 @@ user: saif
 pass: 1122
 
 open `CMD` and run `ftp 192.168.10.6` and login with id and password
-![FTP Working](https://i.ibb.co.com/s25Qdp9/FTP.png)
+![](https://i.ibb.co.com/s25Qdp9/FTP.png)
 
 Mail Login ID: (user, pass): (saif, 1122), (riad, 4321), (mithu, 1234), (meherab, 1234), (sky, 4422)
 
 **Mail Sent**
 from `riad@email.com`
-![Mail Sent](https://i.ibb.co.com/3TZyfC8/Email-Sending.png)
+![](https://i.ibb.co.com/3TZyfC8/Email-Sending.png)
 
 **Mail Received**
 to `saif@email.com`
-![Mail Received](https://i.ibb.co.com/6Nqw3s2/Mail-Received.png)
+![](https://i.ibb.co.com/6Nqw3s2/Mail-Received.png)
 
 **Social Media:**
 Just open your browser and go `wishper.com`. It is a social media for neighborhood.
-![Wihsper](https://i.ibb.co.com/qC9ZrrF/Wishper.png)
+![](https://i.ibb.co.com/qC9ZrrF/Wishper.png)
