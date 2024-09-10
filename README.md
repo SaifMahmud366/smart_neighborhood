@@ -1,6 +1,8 @@
 
 <font size="5">**Smart Neighborhood**</font>
+
 `Cisco Packet Tracer Version = 8.2.1.0118`
+
 **Abstract:**
 This project simulates a Smart Neighborhood using Cisco Packet Tracer. The network facilitates communication and resource sharing among residents, fostering a connected and efficient community.
 1. Collaborative Mail: Residents can exchange emails within the neighborhood network, promoting secure and convenient communication.
